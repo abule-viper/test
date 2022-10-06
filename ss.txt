@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 henity
 =======
 lokmax
+>>>>>>> akiki
+=======
+lokmax
+=======
+henity
+>>>>>>> abiel
 >>>>>>> akiki
